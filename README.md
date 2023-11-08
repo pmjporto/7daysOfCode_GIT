@@ -11,4 +11,4 @@
 
 <h1> Capa </h1>
 
-![Capa](Nilson_1.jpg)
+<!-- ![Capa](Nilson_1.jpg) -->
